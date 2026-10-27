@@ -1,0 +1,8 @@
+{
+  "n": 3900,
+  "total_errors": 9,
+  "missed_defects": 8,
+  "false_alarms": 1,
+  "seconds": 114.23,
+  "image_ids_unique": 1300
+}

@@ -1,0 +1,4 @@
+method,errors,missed_defects,false_alarms,n,accuracy
+B_aligned,51,17,34,3900,0.9869230769230768
+D_independent_trial11,146,64,82,3900,0.9625641025641024
+D_independent_trial29,156,81,75,3900,0.96

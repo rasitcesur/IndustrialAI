@@ -1,0 +1,4 @@
+evaluation,configuration,n,errors,missed_defects,false_alarms,accuracy
+brightness_shift,original_AtlasMIL_80_15_05,1300,297,45,252,0.7715384615384615
+brightness_shift,prior_best_old70_morph30,1300,271,33,238,0.7915384615384615
+brightness_shift,regional_5pct_et45_atlas10_oldmil5_morph35,1300,263,21,242,0.7976923076923077

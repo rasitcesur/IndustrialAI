@@ -1,0 +1,4 @@
+evaluation,configuration,n,errors,missed_defects,false_alarms,accuracy
+random_cv,original_AtlasMIL_80_15_05,3900,12,10,2,0.9969230769230768
+random_cv,prior_best_old70_morph30,3900,10,10,0,0.9974358974358974
+random_cv,regional_5pct_et45_atlas10_oldmil5_morph35,3900,8,8,0,0.997948717948718

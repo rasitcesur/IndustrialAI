@@ -1,0 +1,4 @@
+-r requirements.txt
+Cython>=3.0,<4
+setuptools>=68
+pytest>=8,<10

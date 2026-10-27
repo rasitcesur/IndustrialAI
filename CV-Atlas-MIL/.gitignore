@@ -1,0 +1,27 @@
+__pycache__/
+*.py[cod]
+*.pyd
+*.so
+*.dll
+*.egg-info/
+build/
+dist/
+.venv/
+.idea/
+.vscode/
+.ipynb_checkpoints/
+.pytest_cache/
+cache/
+DataSet/
+data/
+models/*.joblib
+*.log
+predictions*.csv
+heatmaps/
+evaluation/
+# Native build byproducts and sample output
+*.c
+*.html
+benchmark_*.csv
+*.joblib
+*.npz

@@ -1,0 +1,6 @@
+# Optional CUDA feature extraction uses PyTorch CUDA wheels, NOT cv2.cuda.
+# Install a CUDA-enabled torch build supported by your driver from
+# https://pytorch.org/get-started/locally/ . This file intentionally
+# does not pin an index-url or CUDA version; CUDA wheels vary by platform.
+# Ordinary requirements.txt already includes torch; check:
+# python -c "import torch; print(torch.cuda.is_available())"
